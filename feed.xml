@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Bears in Town</title>
+    <link href="https://bearsintownmusic.com/feed.xml" rel="self" />
+    <link href="https://bearsintownmusic.com" />
+    <updated>2025-11-11T19:38:51-07:00</updated>
+    <author>
+        <name>Nathan</name>
+    </author>
+    <id>https://bearsintownmusic.com</id>
+
+    <entry>
+        <title>New Single Release</title>
+        <author>
+            <name>Nathan</name>
+        </author>
+        <link href="https://bearsintownmusic.com/new-single-release/"/>
+        <id>https://bearsintownmusic.com/new-single-release/</id>
+        <media:content url="https://bearsintownmusic.com/media/posts/3/Bears-in-Town-LightHouse-Image.png" medium="image" />
+            <category term="Upcoming Events"/>
+
+        <updated>2025-11-11T19:36:28-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://bearsintownmusic.com/media/posts/3/Bears-in-Town-LightHouse-Image.png" alt="" />
+                    Bears in Town is releasing their new single Light House on November 14th! Be sure to check it out!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bearsintownmusic.com/media/posts/3/Bears-in-Town-LightHouse-Image.png" class="type:primaryImage" alt="" /></p>
+                <p>Bears in Town is releasing their new single Light House on November 14th! Be sure to check it out!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

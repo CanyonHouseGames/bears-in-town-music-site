@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bears in Town",
+    "description": "",
+    "home_page_url": "https://bearsintownmusic.com",
+    "feed_url": "https://bearsintownmusic.com/feed.json",
+    "user_comment": "",
+    "icon": "https://bearsintownmusic.com/media/website/bears_in_town_logo.png",
+    "author": {
+        "name": "Nathan"
+    },
+    "items": [
+        {
+            "id": "https://bearsintownmusic.com/new-single-release/",
+            "url": "https://bearsintownmusic.com/new-single-release/",
+            "title": "New Single Release",
+            "summary": "Bears in Town is releasing their new single Light House on November 14th! Be sure to check it out!",
+            "content_html": "<p>Bears in Town is releasing their new single Light House on November 14th! Be sure to check it out!</p>",
+            "image": "https://bearsintownmusic.com/media/posts/3/Bears-in-Town-LightHouse-Image.png",
+            "author": {
+                "name": "Nathan"
+            },
+            "tags": [
+                   "Upcoming Events"
+            ],
+            "date_published": "2025-11-11T19:36:28-07:00",
+            "date_modified": "2025-11-11T19:38:51-07:00"
+        }
+    ]
+}
