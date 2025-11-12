@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: http://bearsintownmusic.com/sitemap.xml
